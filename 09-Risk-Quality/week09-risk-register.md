@@ -79,18 +79,18 @@
 
 ### Risk 5
 
-**Description:** If acceptance testing identifies major defects late in the project, then additional rework may be required and the planned go-live date could be delayed.
+**Description:** If major defects are identified during the Week 8 Conduct Integrated Workflow Testing activity, then additional rework and retesting may be required and the planned go-live date could be delayed.
 
 **Probability:** Medium  
 **Impact:** High  
 **Score:** 6  
 **Priority:** High  
 
-**Response Strategy:** Avoid. The team will not deploy an affected workflow until critical acceptance requirements are met and major defects are corrected and retested.
+**Response Strategy:** Mitigate. The team will conduct acceptance testing early, correct critical defects, and retest affected workflows before deployment.
 
-**Trigger or Monitoring Condition:** Critical acceptance testing fails or remains incomplete at the go-live readiness checkpoint.
+**Trigger or Monitoring Condition:** A critical defect is identified or acceptance testing falls behind the planned readiness checkpoint.
 
-**Owner:** Product Manager, working with Developers, because the Product Manager can confirm acceptance requirements while Developers correct technical defects.
+**Owner:** Product Manager, working with Developers, because the Product Manager can confirm acceptance requirements while Developers investigate and correct technical defects.
 
 ---
 
@@ -115,9 +115,9 @@
 
 ## Assumption Connection
 
-Risk 1 connects to my Week 5 assumption that staff from all six clinics will be available for testing and training. This became a risk because staff availability has not been guaranteed. If staff are unavailable, the training objective and rollout schedule could be affected.
+Risk 1 connects to my Week 5 assumption that staff from all six clinics will be available for testing and training. This became a risk because staff availability has not been guaranteed. If staff are unavailable, it could affect my Week 5 objective that staff at all six clinics complete training by the approved Phase One go-live milestone.
 
-Risk 2 connects to my Week 5 assumption that RCHN's current technical environment can support the new system without a major infrastructure upgrade. This became a risk because the technical environment still needs to be confirmed. If the assumption is wrong, the project could require additional cost, resources, technical work, and schedule time.
+Risk 2 connects to my Week 5 assumption that RCHN's current technical environment can support the new system without a major infrastructure upgrade. This became a risk because the technical environment still needs to be confirmed. If the assumption is wrong, it could affect my Week 5 objective to implement the standardized patient intake and appointment scheduling workflow across all six clinics by the approved Phase One go-live milestone.
 
 ---
 
@@ -137,7 +137,7 @@ My highest-priority threat is **Risk 3** with a course score of **6**. It deserv
 
 ### Risk vs. Issue Distinction
 
-After reviewing my five risks, I confirmed that each one is a future uncertainty. Staff may become unavailable, technical upgrades may be required, migration errors may occur, approvals may be delayed, and acceptance testing may identify major defects. None of these conditions are being treated as confirmed current problems in my register.
+After reviewing my five risks, I confirmed that each one is a future uncertainty. Staff may become unavailable, technical upgrades may be required, migration errors may occur, approvals may be delayed, and integrated workflow testing may identify major defects. I verified each entry by checking that it describes an uncertain future event using the If/then format and that the project information does not confirm that the event has already occurred.
 
 The distinction matters because a **risk** is something that may happen and should be monitored and planned for, while an **issue** has already happened and requires immediate action and resolution.
 
